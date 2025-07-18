@@ -6,7 +6,7 @@ A RESTful blog application built with Go, featuring user authentication and CRUD
 
 ### Backend
 - **Go** (Golang) - Core programming language
-- **http** - Web framework/service (specify which you're using)
+- **http** - Web framework/service
 - **GORM** - ORM for database operations
 - **PostgreSQL** - Relational database
 - **JWT** - Authentication tokens
